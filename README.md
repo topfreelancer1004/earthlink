@@ -1,4 +1,4 @@
-# simpleapp
+# Vue.js & TypeScript & Tailwind CSS
 
 ## Project setup
 ```
@@ -27,7 +27,5 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
-# earthlink
-# earthlink
-# ether
-# earthlink
+
+
